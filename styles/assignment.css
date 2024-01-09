@@ -1,0 +1,34 @@
+
+nav{
+    color:#fff;
+    font-family: Merriweather;
+    font-style: normal;
+    text-align: center;
+}
+
+.hny{
+font-size: 32px;
+font-weight: 400;
+line-height: normal;
+padding-top:207px;
+}
+
+.nyp{
+font-size: 72px;
+font-weight: 900;
+line-height:85px;
+padding-bottom: 300px;
+padding-left: 344px;
+padding-right: 344px;
+}
+
+nav{
+    background-image:url('../resources/Banner\ Image.png');
+    max-width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+}
+header{
+    margin: 50px 140px 0px 140px;
+}
