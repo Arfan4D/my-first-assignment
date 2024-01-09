@@ -386,9 +386,10 @@ background: #F00;
     display: flex;
     width: 64px;
 height: 64px;
-padding: 30px 640px 247px 640px;
-margin: 30px;
+align-content: center;
 gap: 10px;
+padding-left: 600px;
+
 }
 .big{
     color: #FFF;
@@ -396,9 +397,10 @@ font-family: Inter;
 font-size: 24px;
 font-style: normal;
 font-weight: 250;
-line-height: 40px;
 padding-left: 140px;
 padding-top: 100px;
+
+
 }
 .rights{
     color: #FFF;
@@ -406,7 +408,7 @@ font-family: Inter;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
-line-height: normal;
+padding-left:140px;
 }
 .number{
     color: #FFF;
@@ -414,5 +416,16 @@ font-family: Inter;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
-line-height: 40px; 
+padding-left:1200px;
+}
+.unsub{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+padding-left:800px;
+}
+.sub{
+    display: flex;
 }
